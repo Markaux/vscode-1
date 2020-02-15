@@ -1,0 +1,1 @@
+//https://go.developpez.com/tutoriels/go-par-l-exemple/
