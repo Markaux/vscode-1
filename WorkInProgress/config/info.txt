@@ -1,0 +1,6 @@
+{"data": [{
+	"D":[{"user":"idpbiproc","pwd":"!6@7Ck7!Bl7Gi7C","env":"Dev"}],
+	"R":[{"user":"idpbiproc","pwd":"!6@7Ck7!Bl7Gi7C","env":"Rec"}],
+	"B":[{"user":"idpbiproc","pwd":"!6@7Ck7!Bl7Gi7C","env":"Qualif"}],
+	"P":[{"user":"idpbiproc","pwd":"!6@7Ck7!Bl7Gi7C","env":"Prod"}]
+}]}

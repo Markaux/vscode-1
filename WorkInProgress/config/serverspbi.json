@@ -1,0 +1,933 @@
+{
+    "SWDCFRALR827": {
+        "srv":"SWDCFRALR827",
+        "iua":"ALR",
+        "version":"15.0.1102.557",
+        "url":"http://SWDCFRALR827/ReportServer",
+        "env":"Dev"
+    },
+    "SWDCFRALR067": {
+        "srv":"SWDCFRALR067",
+        "iua":"ALR",
+        "version":"15.0.1102.557",
+        "url":"http://SWDCFRALR067/ReportServer",
+        "env":"Dev"
+    },
+    "SWDCFRALR101": {
+        "srv":"SWDCFRALR101",
+        "iua":"ALR",
+        "version":"15.0.1102.557",
+        "url":"http://SWDCFRALR101/ReportServer",
+        "env":"Dev"
+    },
+    "SWDCFRALR573": {
+        "srv":"SWDCFRALR573",
+        "iua":"ALR",
+        "version":"15.0.1102.557",
+        "url":"http://SWDCFRALR573/ReportServer",
+        "env":"Dev"
+    },
+    "SWDCFRALR253": {
+        "srv":"SWDCFRALR253",
+        "iua":"RT3",
+        "version":"15.0.1102.646",
+        "url":"http://SWDCFRALR253/ReportServer",
+        "env":"Dev"
+    },
+    "SWDCFRALR705": {
+        "srv":"SWDCFRALR705",
+        "iua":"RT3",
+        "version":"15.0.1102.646",
+        "url":"http://SWDCFRALR705/ReportServer",
+        "env":"Dev"
+    },
+    "SWPCFRPBI989": {
+        "srv":"SWPCFRPBI989",
+        "iua":"ALR",
+        "version":"15.0.1102.371",
+        "url":"http://SWPCFRPBI989/ReportServer",
+        "env":"Prod"
+    },
+    "SWDCFREZD199": {
+        "srv":"SWDCFREZD199",
+        "iua":"EZD",
+        "version":"15.0.1102.646",
+        "url":"http://swdcfrezd199/ReportServer",
+        "env":"Dev"
+    },
+    "SWBCFREZD411": {
+        "srv":"SWBCFREZD411",
+        "iua":"EZD",
+        "version":"15.0.1102.646",
+        "url":"http://swbcfrezd411/ReportServer",
+        "env":"Bench"
+    },
+    "SWPCFRPBI130": {
+        "srv":"SWPCFRPBI130",
+        "iua":"EZD",
+        "version":"15.0.1102.646",
+        "url":"http://swpcfrpbi130/ReportServer",
+        "env":"Prod"
+    },
+    "SWPCFRPBI267": {
+        "srv":"SWPCFRPBI267",
+        "iua":"EZD",
+        "version":"15.0.1102.646",
+        "url":"http://swpcfrpbi267/ReportServer",
+        "env":"Prod"
+    },
+    "SWDCFRVOY761": {
+        "srv":"SWDCFRVOY761",
+        "iua":"VOY",
+        "version":"15.0.2.402",
+        "url":"http://SWDCFRVOY761/ReportServer",
+        "env":"Dev"
+    },
+    "SWTCFRVOY243": {
+        "srv":"SWTCFRVOY243",
+        "iua":"VOY",
+        "version":"15.0.2.402",
+        "url":"http://SWTCFRVOY243/ReportServer",
+        "env":"Test"
+    },
+    "SWBCFRVOY907": {
+        "srv":"SWBCFRVOY907",
+        "iua":"VOY",
+        "version":"15.0.2.402",
+        "url":"http://SWBCFRVOY907/ReportServer",
+        "env":"Bench"
+    },
+    "SWBCFRVOY766": {
+        "srv":"SWBCFRVOY766",
+        "iua":"VOY",
+        "version":"15.0.2.402",
+        "url":"http://SWBCFRVOY766/ReportServer",
+        "env":"Bench"
+    },
+    "SWPCFRVOY426": {
+        "srv":"SWPCFRVOY426",
+        "iua":"VOY",
+        "version":"15.0.2.402",
+        "url":"http://SWPCFRVOY426/ReportServer",
+        "env":"Prod"
+    },
+    "SWPCFRVOY829": {
+        "srv":"SWPCFRVOY829",
+        "iua":"VOY",
+        "version":"15.0.2.402",
+        "url":"http://SWPCFRVOY829/ReportServer",
+        "env":"Prod"
+    },
+    "SWDCFRPBI806": {
+        "srv":"SWDCFRPBI806",
+        "iua":"EWV",
+        "version":"14.0.600.442",
+        "url":"http://swdcfrpbi806/ReportServer_MWDEWV01",
+        "env":"Dev"
+    },
+    "SWUCFRPBI947": {
+        "srv":"SWUCFRPBI947",
+        "iua":"EWV",
+        "version":"14.0.600.442",
+        "url":"http://swucfrpbi947/ReportServer_MWBEWVRS",
+        "env":"UAT"
+    },
+    "SWBCFRPBI903": {
+        "srv":"SWBCFRPBI903",
+        "iua":"EWV",
+        "version":"14.0.600.442",
+        "url":"http://Pisa-PBI-NFA.bench.mycloud.intranatixis.com/ReportServer_MWBEWVRS",
+        "env":"Bench"
+    },
+    "SWBCFRPBI379": {
+        "srv":"SWBCFRPBI379",
+        "iua":"EWV",
+        "version":"14.0.600.442",
+        "url":"http://Pisa-PBI-NFA.bench.mycloud.intranatixis.com/ReportServer_MWBEWVRS",
+        "env":"Bench"
+    },
+    "SWPCFRPBI690": {
+        "srv":"SWPCFRPBI690",
+        "iua":"EWV",
+        "version":"14.0.600.442",
+        "url":"http://pisa-pbi-nfa.mycloud.intranatixis.com/reports",
+        "env":"Prod"
+    },
+    "SWPCFRPBI435": {
+        "srv":"SWPCFRPBI435",
+        "iua":"EWV",
+        "version":"14.0.600.442",
+        "url":"http://pisa-pbi-nfa.mycloud.intranatixis.com/reports",
+        "env":"Prod"
+    },
+    "SWBCFRPBI142": {
+        "srv":"SWBCFRPBI142",
+        "iua":"MSD",
+        "version":"15.0.2.402",
+        "url":"http://swbcfrpbi142/ReportServer_MWBPBI02",
+        "env":"Bench"
+    },
+    "SWDCFRPBI464": {
+        "srv":"SWDCFRPBI464",
+        "iua":"V69",
+        "version":"15.0.1102.235",
+        "url":"http://SWDCFRPBI464/ReportServer",
+        "env":"Dev"
+    },
+    "SWUCFRPBI032": {
+        "srv":"SWUCFRPBI032",
+        "iua":"V69",
+        "version":"15.0.1102.235",
+        "url":"http://SWUCFRPBI032/ReportServer",
+        "env":"UAT"
+    },
+    "SWBCFRPBI086": {
+        "srv":"SWBCFRPBI086",
+        "iua":"V69",
+        "version":"15.0.1102.235",
+        "url":"http://SWBCFRPBI086/ReportServer",
+        "env":"Bench"
+    },
+    "SWBCFRPBI989": {
+        "srv":"SWBCFRPBI989",
+        "iua":"V69",
+        "version":"15.0.1102.235",
+        "url":"http://SWBCFRPBI989/ReportServer",
+        "env":"Bench"
+    },
+    "SWPCFRPBI738": {
+        "srv":"SWPCFRPBI738",
+        "iua":"V69",
+        "version":"15.0.1102.235",
+        "url":"http://SWPCFRPBI738/ReportServer",
+        "env":"Prod"
+    },
+    "SWPCFRPBI995": {
+        "srv":"SWPCFRPBI995",
+        "iua":"V69",
+        "version":"15.0.1102.235",
+        "url":"http://SWPCFRPBI995/ReportServer",
+        "env":"Prod"
+    },
+    "SWDCFRFNH440": {
+        "srv":"SWDCFRFNH440",
+        "iua":"FNH",
+        "version":"15.0.1102.371",
+        "url":"http://SWDCFRFNH440/ReportServer",
+        "env":"Dev"
+    },
+    "SWBCFRFNH089": {
+        "srv":"SWBCFRFNH089",
+        "iua":"FNH",
+        "version":"15.0.1102.371",
+        "url":"http://SWBCFRFNH089/ReportServer",
+        "env":"Bench"
+    },
+    "SWPCFRFNH493": {
+        "srv":"SWPCFRFNH493",
+        "iua":"FNH",
+        "version":"15.0.1102.371",
+        "url":"http://SWPCFRFNH493/ReportServer",
+        "env":"Prod"
+    },
+    "SWDCFRQ30166": {
+        "srv":"SWDCFRQ30166",
+        "iua":"Q30",
+        "version":"15.0.2.554",
+        "url":"http://SWDCFRQ30166/ReportServer",
+        "env":"Dev"
+    },
+    "SWDCFRPBI530": {
+        "srv":"SWDCFRPBI530",
+        "iua":"IBI",
+        "version":"15.0.1102.235",
+        "url":"http://SWDCFRPBI530/ReportServer",
+        "env":"Dev"
+    },
+    "SWBCFRPBI513": {
+        "srv":"SWBCFRPBI513",
+        "iua":"IBI",
+        "version":"15.0.1102.235",
+        "url":"http://SWDCFRPBI530/ReportServer",
+        "env":"Bench"
+    },
+    "SWPCFRPBI718": {
+        "srv":"SWPCFRPBI718",
+        "iua":"IBI",
+        "version":"15.0.1102.235",
+        "url":"http://SWPCFRPBI718/ReportServer",
+        "env":"Prod"
+    },
+    "SWDCFRM62658": {
+        "srv":"SWDCFRM62658",
+        "iua":"M62",
+        "version":"15.0.2.402",
+        "url":"http://SWDCFRM62658/ReportServer",
+        "env":"Dev"
+    },
+    "SWDCFRPBI104": {
+        "srv":"SWDCFRPBI104",
+        "iua":"N02",
+        "version":"15.0.2.402",
+        "url":"http://SWDCFRPBI104/ReportServer",
+        "env":"Dev"
+    },
+    "SWDCFRPBI585": {
+        "srv":"SWDCFRPBI585",
+        "iua":"M29",
+        "version":"15.0.2.557",
+        "url":"http://m29-powerbi-dev.fr.intranet/ReportServer",
+        "env":"Dev"
+    },
+    "SWUCFRPBI313": {
+        "srv":"SWUCFRPBI313",
+        "iua":"M29",
+        "version":"15.0.2.557",
+        "url":"http://m29-powerbi-UAT.fr.intranet/Reports",
+        "env":"UAT"
+    },
+    "SWBCFRM29099": {
+        "srv":"SWBCFRM29099",
+        "iua":"M29",
+        "version":"15.0.2.557",
+        "url":"http://m29-powerbi.bench.mycloud.intranatixis.com/reportServer",
+        "env":"Bench"
+    },
+    "SWBCFRM29444": {
+        "srv":"SWBCFRM29444",
+        "iua":"M29",
+        "version":"15.0.2.557",
+        "url":"http://m29-powerbi.bench.mycloud.intranatixis.com/reportServer",
+        "env":"Bench"
+    },
+    "SWPCFRM29714": {
+        "srv":"SWPCFRM29714",
+        "iua":"M29",
+        "version":"15.0.2.557",
+        "url":"http://m29-powerbi.mycloud.intranatixis.com/reportServer",
+        "env":"Prod"
+    },
+    "SWPCFRM29698": {
+        "srv":"SWPCFRM29698",
+        "iua":"M29",
+        "version":"15.0.2.557",
+        "url":"http://m29-powerbi.mycloud.intranatixis.com/reportServer",
+        "env":"Prod"
+    },
+    "SWPCFRPBI807": {
+        "srv":"SWPCFRPBI807",
+        "iua":"BGM",
+        "version":"15.0.2.378",
+        "url":"http://SWPCFRPBI807/ReportServer_BGM",
+        "env":"Dev"
+    },
+    "SWDCFRPBI875": {
+        "srv":"SWDCFRPBI875",
+        "iua":"ALR",
+        "version":"3000.14.39",
+        "url":"",
+        "env":"Dev"
+    },
+    "SWDCFRALR025": {
+        "srv":"SWDCFRALR025",
+        "iua":"ALR",
+        "version":"3000.14.39",
+        "url":"",
+        "env":"Dev"
+    },
+    "SWDCFRALR592": {
+        "srv":"SWDCFRALR592",
+        "iua":"ALR",
+        "version":"3000.14.39",
+        "url":"",
+        "env":"Dev"
+    },
+    "SWTCFRPBI745": {
+        "srv":"SWTCFRPBI745",
+        "iua":"ALR",
+        "version":"3000.14.39",
+        "url":"",
+        "env":"Test"
+    },
+    "SWBCFRF89459": {
+        "srv":"SWBCFRF89459",
+        "iua":"F89",
+        "version":"15.0.2.554",
+        "url":"http://swbcfrf89459/ReportServer_mwbf8901",
+        "env":"Bench"
+    },
+    "SWDCFRDY3896": {
+        "srv":"SWDCFRDY3896",
+        "iua":"DY3",
+        "version":"15.0.2.557",
+        "url":"http://SWDCFRDY3896/ReportServer",
+        "env":"Bench"
+    },
+    "SWTCFRFQE436": {
+        "srv":"SWTCFRFQE436",
+        "iua":"FQE",
+        "version":"15.0.2.557",
+        "url":"https://UAT.mycerc.Prod.d.bbg/ReportServer",
+        "env":"Test"
+    },
+    "SWTCFRFQE298": {
+        "srv":"SWTCFRFQE298",
+        "iua":"FQE",
+        "version":"15.0.2.557",
+        "url":"https://UAT.mycerc.Prod.d.bbg/ReportServer",
+        "env":"Test"
+    },
+    "SWPCFRFQE766": {
+        "srv":"SWPCFRFQE766",
+        "iua":"FQE",
+        "version":"15.0.2.557",
+        "url":"https://mycerc.Prod.d.bbg/ReportServer",
+        "env":"Prod"
+    },
+    "SWPCFRFQE277": {
+        "srv":"SWPCFRFQE277",
+        "iua":"FQE",
+        "version":"15.0.2.557",
+        "url":"https://mycerc.Prod.d.bbg/ReportServer",
+        "env":"Prod"
+    },
+    "SWDCFRCQ0148": {
+        "srv":"SWDCFRCQ0148",
+        "iua":"CQ0",
+        "version":"15.0.1102.597",
+        "url":"http://cq0-powerbi-dev.mycloud.intranatixis.com/ReportServer",
+        "env":"Dev"
+    },
+    "SWUCFRCQ0516": {
+        "srv":"SWUCFRCQ0516",
+        "iua":"CQ0",
+        "version":"15.0.1102.597",
+        "url":"http://cq0-powerbi-UAT.mycloud.intranatixis.com/ReportServer",
+        "env":"UAT"
+    },
+    "SWBCFRCQ0311": {
+        "srv":"SWBCFRCQ0311",
+        "iua":"CQ0",
+        "version":"15.0.1102.597",
+        "url":"http://cq0-powerbi-bench.mycloud.intranatixis.com/ReportServer",
+        "env":"Bench"
+    },
+    "SWBCFRCQ0484": {
+        "srv":"SWBCFRCQ0484",
+        "iua":"CQ0",
+        "version":"15.0.1102.597",
+        "url":"http://cq0-powerbi-bench.mycloud.intranatixis.com/ReportServer",
+        "env":"Bench"
+    },
+    "SWPCFRCQ0431": {
+        "srv":"SWPCFRCQ0431",
+        "iua":"CQ0",
+        "version":"15.0.1102.597",
+        "url":"http://cq0-powerbi.mycloud.intranatixis.com/ReportServer",
+        "env":"Prod"
+    },
+    "SWPCFRCQ0644": {
+        "srv":"SWPCFRCQ0644",
+        "iua":"CQ0",
+        "version":"15.0.1102.597",
+        "url":"http://cq0-powerbi.mycloud.intranatixis.com/ReportServer",
+        "env":"Prod"
+    },
+    "SWDCFRQ75356": {
+        "srv":"SWDCFRQ75356",
+        "iua":"Q75",
+        "version":"15.0.1102.597",
+        "url":"http://trafic-powerbi.dev.mycloud.intranatixis.com/ReportServer",
+        "env":"Dev"
+    },
+    "SWPCFRQ75374": {
+        "srv":"SWPCFRQ75374",
+        "iua":"Q75",
+        "version":"15.0.1102.597",
+        "url":"http://SWPCFRQ75374/ReportServer",
+        "env":"Prod"
+    },
+    "SWUCFRAJU149": {
+        "srv":"SWUCFRAJU149",
+        "iua":"AJU",
+        "version":"15.0.1102.235",
+        "url":"http://SWUCFRAJU149/ReportServer",
+        "env":"UAT"
+    },
+    "SWBCFRDJO188": {
+        "srv":"SWBCFRDJO188",
+        "iua":"DJO",
+        "version":"15.0.1102.235",
+        "url":"https://powerfbi.bench.mycloud.intranatixis.com/ReportServer",
+        "env":"Bench"
+    },
+    "SWPCFRDJO123": {
+        "srv":"SWPCFRDJO123",
+        "iua":"DJO",
+        "version":"15.0.1102.371",
+        "url":"https://powerfbi.mycloud.intranatixis.com/ReportServer",
+        "env":"Prod"
+    },
+    "SWDCFRCM8301": {
+        "srv":"SWDCFRCM8301",
+        "iua":"CM8",
+        "version":"15.0.1102.235",
+        "url":"http://SWDCFRCM8301/ReportServer",
+        "env":"dev"
+    },
+    "SWBCFRFH6109": {
+        "srv":"SWBCFRFH6109",
+        "iua":"FH6",
+        "version":"15.0.1102.371",
+        "url":"http://fh6-bench.fr.intranet/ReportServer",
+        "env":"Bench"
+    },
+    "SWPCFRFH6973": {
+        "srv":"SWPCFRFH6973",
+        "iua":"FH6",
+        "version":"15.0.1102.371",
+        "url":"http://FactoryMesures.intranatixis.com/ReportServer",
+        "env":"Prod"
+    },
+    "SWPCFRFH6530": {
+        "srv":"SWPCFRFH6530",
+        "iua":"FH6",
+        "version":"15.0.1102.371",
+        "url":"http://FactoryMesures.intranatixis.com/ReportServer",
+        "env":"Prod"
+    },
+    "SWUCFRCG0684": {
+        "srv":"SWUCFRCG0684",
+        "iua":"CG0",
+        "version":"15.0.1102.371",
+        "url":"http://swucfrcg0684/ReportServer",
+        "env":"UAT"
+    },
+    "SWBCFRCG0243": {
+        "srv":"SWBCFRCG0243",
+        "iua":"CG0",
+        "version":"15.0.1102.371",
+        "url":"http://SWBCFRCG0243/ReportServer",
+        "env":"Bench"
+    },
+    "SWPCFRCG0991": {
+        "srv":"SWPCFRCG0991",
+        "iua":"CG0",
+        "version":"15.0.1102.371",
+        "url":"http://SWPCFRCG0991/ReportServer",
+        "env":"Prod"
+    },
+    "SWBCFRFYV027": {
+        "srv":"SWBCFRFYV027",
+        "iua":"FYV",
+        "version":"15.0.1102.597",
+        "url":"http://SWBCFRFYV027/ReportServer",
+        "env":"Bench"
+    },
+    "SWTCFRFYV174": {
+        "srv":"SWTCFRFYV174",
+        "iua":"FYV",
+        "version":"15.0.1102.597",
+        "url":"http://SWTCFRFYV174/ReportServer",
+        "env":"Test"
+    },
+    "SWBCFRFYV857": {
+        "srv":"SWBCFRFYV857",
+        "iua":"FYV",
+        "version":"15.0.1102.597",
+        "url":"http://SWBCFRFYV857/ReportServer",
+        "env":"Bench"
+    },
+    "SWPCFRFYV211": {
+        "srv":"SWPCFRFYV211",
+        "iua":"FYV",
+        "version":"15.0.1102.597",
+        "url":"http://SWPCFRFYV211/ReportServer",
+        "env":"Prod"
+    },
+    "SWPCFRFYV045": {
+        "srv":"SWPCFRFYV045",
+        "iua":"FYV",
+        "version":"15.0.1102.597",
+        "url":"http://SWPCFRFYV045/ReportServer",
+        "env":"Prod"
+    },
+    "SWTCFRKPI072": {
+        "srv":"SWTCFRKPI072",
+        "iua":"KPI",
+        "version":"15.0.1102.597",
+        "url":"http://kpi-pbireporting.uat.mycloud.intranatixis.com/ReportServer",
+        "env":"UAT"
+    },
+    "SWTCFRKPI366": {
+        "srv":"SWTCFRKPI366",
+        "iua":"KPI",
+        "version":"15.0.1102.597",
+        "url":"http://SWTCFRKPI366/ReportServer",
+        "env":"Test"
+    },
+    "SWBCFRKPI438": {
+        "srv":"SWBCFRKPI438",
+        "iua":"KPI",
+        "version":"15.0.1102.597",
+        "url":"http://kpi-pbireporting.bench.mycloud.intranatixis.com/ReportServer",
+        "env":"Bench"
+    },
+    "SWPCFRKPI784": {
+        "srv":"SWPCFRKPI784",
+        "iua":"KPI",
+        "version":"15.0.1102.597",
+        "url":"http://kpi-pbireporting.mycloud.intranatixis.com/ReportServer",
+        "env":"Prod"
+    },
+    "SWPCFRKPI375": {
+        "srv":"SWPCFRKPI375",
+        "iua":"KPI",
+        "version":"15.0.1102.597",
+        "url":"http://kpi-pbireporting.mycloud.intranatixis.com/ReportServer",
+        "env":"Prod"
+    },
+    "SWDCFRGGO874": {
+        "srv":"SWDCFRGGO874",
+        "iua":"GGO",
+        "version":"15.0.1102.597",
+        "url":"http://reporting-assurances.dev.mycloud.intranatixis.com/ReportServer",
+        "env":"Dev"
+    },
+    "SWDCFRFYV038": {
+        "srv":"SWDCFRFYV038",
+        "iua":"FYV",
+        "version":"15.0.1102.371",
+        "url":"http://SWDCFRFYV038/ReportServer",
+        "env":"Dev"
+    },
+    "SWDCFREQE524": {
+        "srv":"SWDCFREQE524",
+        "iua":"EQE",
+        "version":"15.0.1102.371",
+        "url":"http://SWDCFREQE524/ReportServer",
+        "env":"Dev"
+    },
+    "SWDCFRFYJ663": {
+        "srv":"SWDCFRFYJ663",
+        "iua":"FYJ",
+        "version":"15.0.1102.371",
+        "url":"http://SWDCFRFYJ663/ReportServer",
+        "env":"Dev"
+    },
+    "SWBCFRM62549": {
+        "srv":"SWBCFRM62549",
+        "iua":"M62",
+        "version":"15.0.1102.371",
+        "url":"http://SWBCFRM62549/ReportServer",
+        "env":"Dev"
+    },
+    "SWDCFRPBI807": {
+        "srv":"SWDCFRPBI807",
+        "iua":"BGM",
+        "version":"15.0.2.378",
+        "url":"http://SWDCFRPBI807/ReportServer",
+        "env":"Dev"
+    },
+    "SWDCFRPBI471": {
+        "srv":"SWDCFRPBI471",
+        "iua":"Q30",
+        "version":"15.0.2.378",
+        "url":"http://SWDCFRPBI471/ReportServer",
+        "env":"Dev"
+    },
+    "SWDCFRMRT380": {
+        "srv":"SWDCFRMRT380",
+        "iua":"RT3",
+        "version":"15.0.1102.646",
+        "url":"http://SWDCFRMRT380/ReportServer",
+        "env":"Dev"
+    },
+    "SWBCFRGGO129": {
+        "srv":"SWBCFRGGO129",
+        "iua":"GGO",
+        "version":"15.0.1102.597",
+        "url":"http://reporting-assurances.bench.mycloud.intranatixis.com/ReportServer",
+        "env":"Dev"
+    },
+    "SWTCFRFYJ588": {
+        "srv":"SWTCFRFYJ588",
+        "iua":"FYJ",
+        "version":"15.0.1102.597",
+        "url":"http://SWTCFRFYJ588/ReportServer",
+        "env":"Test"
+    },
+    "SWPCFREV9735": {
+        "srv":"SWPCFREV9735",
+        "iua":"EV9",
+        "version":"15.0.1102.597",
+        "url":"http://SWPCFREV9735/ReportServer",
+        "env":"Prod"
+    },
+    "SWUCFRAIX778": {
+        "srv":"SWUCFRAIX778",
+        "iua":"AIX",
+        "version":"15.0.1102.597",
+        "url":"http://SWUCFRAIX778/ReportServer",
+        "env":"UAT"
+    },
+    "SWTCFRKPI349": {
+        "srv":"SWTCFRKPI349",
+        "iua":"KPI",
+        "version":"15.0.1102.597",
+        "url":"http://SWTCFRKPI349/ReportServer",
+        "env":"Test"
+    },
+    "SWUCFRFSM211": {
+        "srv":"SWUCFRFSM211",
+        "iua":"FSM",
+        "version":"15.0.1102.646",
+        "url":"http://SWUCFRFSM211/ReportServer",
+        "env":"UAT"
+    },
+    "SWDCFRL96834": {
+        "srv":"SWDCFRL96834",
+        "iua":"L96",
+        "version":"15.0.1102.646",
+        "url":"http://SWDCFRL96834/ReportServer",
+        "env":"Dev"
+    },
+    "SWBCFRKPI663": {
+        "srv":"SWBCFRKPI663",
+        "iua":"KPI",
+        "version":"15.0.1102.597",
+        "url":"http://SWBCFRKPI663/ReportServer",
+        "env":"Bench"
+    },
+    "SWPCFRKPI047": {
+        "srv":"SWPCFRKPI047",
+        "iua":"KPI",
+        "version":"15.0.1102.597",
+        "url":"http://SWPCFRKPI047/ReportServer",
+        "env":"Prod"
+    },
+    "SWBCFRKPI901": {
+        "srv":"SWBCFRKPI901",
+        "iua":"KPI",
+        "version":"15.0.1102.597",
+        "url":"http://SWBCFRKPI901/ReportServer",
+        "env":"Bench"
+    },
+    "SWPCFRKPI480": {
+        "srv":"SWPCFRKPI480",
+        "iua":"KPI",
+        "version":"15.0.1102.597",
+        "url":"http://SWPCFRKPI480/ReportServer",
+        "env":"Bench"
+    },
+    "SWBCFRFSM252": {
+        "srv":"SWBCFRFSM252",
+        "iua":"FSM",
+        "version":"15.0.1102.597",
+        "url":"http://SWBCFRFSM252/ReportServer",
+        "env":"Bench"
+    },
+    "SWPCFRFSM369": {
+        "srv":"SWPCFRFSM369",
+        "iua":"FSM",
+        "version":"15.0.1102.597",
+        "url":"http://SWPCFRFSM369/ReportServer",
+        "env":"Prod"
+    },
+    "SWPCFRFSM833": {
+        "srv":"SWPCFRFSM833",
+        "iua":"FSM",
+        "version":"15.0.1102.597",
+        "url":"http://SWPCFRFSM833/ReportServer",
+        "env":"Prod"
+    },
+    "SWPCFRAIX657": {
+        "srv":"SWPCFRAIX657",
+        "iua":"AIX",
+        "version":"15.0.1102.646",
+        "url":"http://SWPCFRAIX657/ReportServer",
+        "env":"Prod"
+    },
+    "SWPCFRM62008": {
+        "srv":"SWPCFRM62008",
+        "iua":"M62",
+        "version":"15.0.1102.371",
+        "url":"http://SWPCFRM62008/ReportServer",
+        "env":"Prod"
+    },
+    "SWPCFRM62713": {
+        "srv":"SWPCFRM62713",
+        "iua":"M62",
+        "version":"15.0.1102.371",
+        "url":"http://SWPCFRM62713/ReportServer",
+        "env":"Prod"
+    },
+    "SWBCFRPBI674": {
+        "srv":"SWBCFRPBI674",
+        "iua":"V69",
+        "version":"",
+        "url":"Database",
+        "env":"Bench"
+    },
+    "SWBCFRPBI888": {
+        "srv":"SWBCFRPBI888",
+        "iua":"ALR",
+        "version":"",
+        "url":"Database",
+        "env":"Bench"
+    },
+    "SWDCFRPBI641": {
+        "srv":"SWDCFRPBI641",
+        "iua":"M62",
+        "version":"",
+        "url":"DB Tools",
+        "env":"Dev"
+    },
+    "SWDCFRFEH261": {
+        "srv":"SWDCFRFEH261",
+        "iua":"FEH",
+        "version":"14.0.600.442",
+        "url":"",
+        "env":"Dev"
+    },
+    "SWDCFREGF060": {
+        "srv":"SWDCFREGF060",
+        "iua":"EGF",
+        "version":"14.0.600.442",
+        "url":"Power BI Desktop",
+        "env":"Dev"
+    },
+    "SWDCFRFTM965": {
+        "srv":"SWDCFRFTM965",
+        "iua":"FTM",
+        "version":"15.0.1102.371",
+        "url":"",
+        "env":"Dev"
+    },
+    "SWDCFRPBI219": {
+        "srv":"SWDCFRPBI219",
+        "iua":"M62",
+        "version":"15.0.2.402",
+        "url":"DB Tools",
+        "env":"Dev"
+    },
+    "SWDCFRPBI517": {
+        "srv":"SWDCFRPBI517",
+        "iua":"V69",
+        "version":"15.0.1102.235",
+        "url":"DB sqlexpress",
+        "env":"Dev"
+    },
+    "SWUCFRPBI314": {
+        "srv":"SWUCFRPBI314",
+        "iua":"V69",
+        "version":"15.0.1102.235",
+        "url":"DB sqlexpress",
+        "env":"UAT"
+    },
+    "SWDCFRPBI678": {
+        "srv":"SWDCFRPBI678",
+        "iua":"VOY",
+        "version":"15.0.2.402",
+        "url":"DB sql",
+        "env":"Dev"
+    },
+    "SWBCFRMRT574": {
+        "srv":"SWBCFRMRT574",
+        "iua":"MRT",
+        "version":"",
+        "url":"",
+        "env":"Dev"
+    },
+    "SWPCFRFSM648": {
+        "srv":"SWPCFRFSM648",
+        "iua":"FSM",
+        "version":"3000.21.18",
+        "url":"",
+        "env":"Prod"
+    },
+    "SWPCFRFSM069": {
+        "srv":"SWPCFRFSM069",
+        "iua":"FSM",
+        "version":"3000.21.18",
+        "url":"",
+        "env":"Prod"
+    },
+    "SWBCFRPBI862": {
+        "srv":"SWBCFRPBI862",
+        "iua":"PPM",
+        "version":"15.0.1102.646",
+        "url":"https://ppm.uat.mycloud.intranatixis.com/Reports_MWBPBI01",
+        "env":"Bench"
+    },
+    "SWBCFRPBI950": {
+        "srv":"SWBCFRPBI950",
+        "iua":"VOY",
+        "version":"15.0.2.402",
+        "url":"",
+        "env":"Bench"
+    },
+    "SWPCFRV69068": {
+        "srv":"SWPCFRV69068",
+        "iua":"V69",
+        "version":"15.0.1102.759",
+        "url":"",
+        "env":"Prod"
+    },
+    "SWPCFRV69610": {
+        "srv":"SWPCFRV69610",
+        "iua":"V69",
+        "version":"15.0.1102.759",
+        "url":"",
+        "env":"Prod"
+    },
+    "SWBCFRV69134": {
+        "srv":"SWBCFRV69134",
+        "iua":"V69",
+        "version":"15.0.1102.759",
+        "url":"",
+        "env":"Bench"
+    },
+    "SWBCFRV69495": {
+        "srv":"SWBCFRV69495",
+        "iua":"V69",
+        "version":"15.0.1102.759",
+        "url":"",
+        "env":"Bench"
+    },
+    "SWUCFRV69634": {
+        "srv":"SWUCFRV69634",
+        "iua":"V69",
+        "version":"15.0.1102.759",
+        "url":"",
+        "env":"UAT"
+    },
+    "SWDCFRV69764": {
+        "srv":"SWDCFRV69764",
+        "iua":"V69",
+        "version":"15.0.1102.759",
+        "url":"",
+        "env":"Dev"
+    },
+    "SWBCFRM62642": {
+        "srv":"SWBCFRM62642",
+        "iua":"M62",
+        "version":"15.0.1102.759",
+        "url":"",
+        "env":"Bench"
+    },
+    "SWPCFRAIX835": {
+        "srv":"SWPCFRAIX835",
+        "iua":"AIX",
+        "version":"15.0.1102.759",
+        "url":"",
+        "env":"Prod"
+    },
+    "SWUCFREZD755": {
+        "srv":"SWUCFREZD755",
+        "iua":"EZD",
+        "version":"15.0.1102.646",
+        "url":"",
+        "env":"UAT"
+    }
+}

@@ -1,0 +1,16 @@
+{
+	"thepath": {
+        "dirpath":"C:\\Users\\celerierma\\OneDrive - Groupe BPCE\\00-PROJETS\\04-PBI\\RIFA\\WorkInProgress",
+        "temp":"\\temp\\",
+        "json":"\\json\\",
+        "logs":"\\logs\\"
+    },
+    "endpoint": {
+        "bench":"https://operation.api.qua.intranatixis.com/referential/rifa/v1/topicSupply?topic=MDWJSN",
+        "prod":"https://operation.api.intranatixis.com/referential/rifa/v1/topicSupply?topic=MDWJSN"
+    },
+    "zhostgroup": {
+        "bench":"prd-middleware_powerbi_horsprod",
+        "prod":"prd-middleware_powerbi_prod"
+    }
+}

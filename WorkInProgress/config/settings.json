@@ -1,0 +1,22 @@
+{
+	"D": {
+        "user":"idpbiproc",
+        "pwd":"!6@7Ck7!Bl7Gi7C",
+        "env":"Dev"
+    },
+    "R": {
+        "user":"iupbiproc",
+        "pwd":"77hi!mi6@8DEDg6",
+        "env":"Rec"
+    },
+    "B": {
+        "user":"ibpbiproc",
+        "pwd":"m_A8h!FiB!l!E8m",
+        "env":"Qualif"
+    },
+    "P": {
+        "user":"ippbiproc",
+        "pwd":"kEi7@_CEkgE66@7",
+        "env":"Prod"
+    }
+}
