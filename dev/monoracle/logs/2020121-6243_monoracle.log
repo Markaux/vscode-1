@@ -1,0 +1,67 @@
+01/21/2020 06:24:03 AM ______ Mon Oracle ________
+01/21/2020 06:24:03 AM ________ Définition des chemins ________
+01/21/2020 06:24:03 AM ______________ Répertoire Parent:  C:\Users\celerierma\OneDrive - Groupe BPCE\00-PROJETS\00-MDW\scripts\monoracle
+01/21/2020 06:24:03 AM ______________ Répertoire de Config:  C:\Users\celerierma\OneDrive - Groupe BPCE\00-PROJETS\00-MDW\scripts\monoracle\config\
+01/21/2020 06:24:03 AM ______________ Répertoire de Logs:  C:\Users\celerierma\OneDrive - Groupe BPCE\00-PROJETS\00-MDW\scripts\monoracle\logs\
+01/21/2020 06:24:03 AM ________ Info sur la carte ________
+01/21/2020 06:24:03 AM ______________ Répertoire Parent:  C:\Users\celerierma\OneDrive - Groupe BPCE\00-PROJETS\00-MDW\scripts\monoracle\config\settings.json
+01/21/2020 06:24:03 AM           Read Setting Couleur: Coeur
+01/21/2020 06:24:03 AM           Read Setting Numero: 7
+01/21/2020 06:24:03 AM           Read Setting Valeur :Sept
+01/21/2020 06:24:03 AM ______Is AS ou Joker: [0, 0, 0]
+01/21/2020 06:24:03 AM ________ Info sur la carte ________
+01/21/2020 06:24:03 AM ______________ Répertoire Parent:  C:\Users\celerierma\OneDrive - Groupe BPCE\00-PROJETS\00-MDW\scripts\monoracle\config\settings.json
+01/21/2020 06:24:03 AM           Read Setting Couleur: Coeur
+01/21/2020 06:24:03 AM           Read Setting Numero: 7
+01/21/2020 06:24:03 AM           Read Setting Valeur :Sept
+01/21/2020 06:24:03 AM ______Ligne 1: 17 - Le résultat est : ['Coeur', '7', 'Sept']
+01/21/2020 06:24:03 AM ________ Info sur la carte ________
+01/21/2020 06:24:03 AM ______________ Répertoire Parent:  C:\Users\celerierma\OneDrive - Groupe BPCE\00-PROJETS\00-MDW\scripts\monoracle\config\settings.json
+01/21/2020 06:24:03 AM           Read Setting Couleur: Carreau
+01/21/2020 06:24:03 AM           Read Setting Numero: 12
+01/21/2020 06:24:03 AM           Read Setting Valeur :Dame
+01/21/2020 06:24:03 AM ______Is AS ou Joker: [0, 0, 0]
+01/21/2020 06:24:03 AM ________ Info sur la carte ________
+01/21/2020 06:24:03 AM ______________ Répertoire Parent:  C:\Users\celerierma\OneDrive - Groupe BPCE\00-PROJETS\00-MDW\scripts\monoracle\config\settings.json
+01/21/2020 06:24:03 AM           Read Setting Couleur: Carreau
+01/21/2020 06:24:03 AM           Read Setting Numero: 12
+01/21/2020 06:24:03 AM           Read Setting Valeur :Dame
+01/21/2020 06:24:03 AM ______Ligne 2: 14 - Le résultat est : ['Carreau', '12', 'Dame']
+01/21/2020 06:24:03 AM ________ Info sur la carte ________
+01/21/2020 06:24:03 AM ______________ Répertoire Parent:  C:\Users\celerierma\OneDrive - Groupe BPCE\00-PROJETS\00-MDW\scripts\monoracle\config\settings.json
+01/21/2020 06:24:03 AM           Read Setting Couleur: Coeur
+01/21/2020 06:24:03 AM           Read Setting Numero: 12
+01/21/2020 06:24:03 AM           Read Setting Valeur :Dame
+01/21/2020 06:24:03 AM ______Is AS ou Joker: [0, 0, 0]
+01/21/2020 06:24:03 AM ________ Info sur la carte ________
+01/21/2020 06:24:03 AM ______________ Répertoire Parent:  C:\Users\celerierma\OneDrive - Groupe BPCE\00-PROJETS\00-MDW\scripts\monoracle\config\settings.json
+01/21/2020 06:24:03 AM           Read Setting Couleur: Coeur
+01/21/2020 06:24:03 AM           Read Setting Numero: 12
+01/21/2020 06:24:03 AM           Read Setting Valeur :Dame
+01/21/2020 06:24:03 AM ______Ligne 3: 22 - Le résultat est : ['Coeur', '12', 'Dame']
+01/21/2020 06:24:03 AM ________ Info sur la carte ________
+01/21/2020 06:24:03 AM ______________ Répertoire Parent:  C:\Users\celerierma\OneDrive - Groupe BPCE\00-PROJETS\00-MDW\scripts\monoracle\config\settings.json
+01/21/2020 06:24:03 AM           Read Setting Couleur: Pique
+01/21/2020 06:24:03 AM           Read Setting Numero: 14
+01/21/2020 06:24:03 AM           Read Setting Valeur :As
+01/21/2020 06:24:03 AM ______Is AS ou Joker: ['Pique', '14', 'As']
+01/21/2020 06:24:03 AM ________ Info sur la carte ________
+01/21/2020 06:24:03 AM ______________ Répertoire Parent:  C:\Users\celerierma\OneDrive - Groupe BPCE\00-PROJETS\00-MDW\scripts\monoracle\config\settings.json
+01/21/2020 06:24:03 AM           Read Setting Couleur: Pique
+01/21/2020 06:24:03 AM           Read Setting Numero: 14
+01/21/2020 06:24:03 AM           Read Setting Valeur :As
+01/21/2020 06:24:03 AM ______Ligne 4: 8 - Le résultat est : ['Pique', '14', 'As']
+01/21/2020 06:24:03 AM ________ Info sur la carte ________
+01/21/2020 06:24:03 AM ______________ Répertoire Parent:  C:\Users\celerierma\OneDrive - Groupe BPCE\00-PROJETS\00-MDW\scripts\monoracle\config\settings.json
+01/21/2020 06:24:03 AM           Read Setting Couleur: Carreau
+01/21/2020 06:24:03 AM           Read Setting Numero: 14
+01/21/2020 06:24:03 AM           Read Setting Valeur :As
+01/21/2020 06:24:03 AM ______Is AS ou Joker: ['Carreau', '14', 'As']
+01/21/2020 06:24:03 AM ________ Info sur la carte ________
+01/21/2020 06:24:03 AM ______________ Répertoire Parent:  C:\Users\celerierma\OneDrive - Groupe BPCE\00-PROJETS\00-MDW\scripts\monoracle\config\settings.json
+01/21/2020 06:24:03 AM           Read Setting Couleur: Carreau
+01/21/2020 06:24:03 AM           Read Setting Numero: 14
+01/21/2020 06:24:03 AM           Read Setting Valeur :As
+01/21/2020 06:24:03 AM ______Ligne 5: 16 - Le résultat est : ['Carreau', '14', 'As']
+01/21/2020 06:24:03 AM __Num Carte: [17, 14, 22, 8, 16]
+01/21/2020 06:24:03 AM __Final: ['As de Pique', 'As de Carreau']

@@ -1,0 +1,167 @@
+{
+	"1": {
+        "couleur":"Pique",
+        "num":"7",
+        "valeur":"Sept"
+    },
+    "2": {
+        "couleur":"Pique",
+        "num":"8",
+        "valeur":"Huit"
+    },
+    "3": {
+        "couleur":"Pique",
+        "num":"9",
+        "valeur":"Neuf"
+    },
+    "4": {
+        "couleur":"Pique",
+        "num":"10",
+        "valeur":"Dix"
+    },
+    "5": {
+        "couleur":"Pique",
+        "num":"11",
+        "valeur":"Valet"
+    },
+    "6": {
+        "couleur":"Pique",
+        "num":"12",
+        "valeur":"Dame"
+    },
+    "7": {
+        "couleur":"Pique",
+        "num":"13",
+        "valeur":"Roi"
+    },
+    "8": {
+        "couleur":"Pique",
+        "num":"14",
+        "valeur":"As"
+    },
+    "9": {
+        "couleur":"Carreau",
+        "num":"7",
+        "valeur":"Sept"
+    },
+    "10": {
+        "couleur":"Carreau",
+        "num":"8",
+        "valeur":"Carreau"
+    },
+    "11": {
+        "couleur":"Carreau",
+        "num":"9",
+        "valeur":"Neuf"
+    },
+    "12": {
+        "couleur":"Carreau",
+        "num":"10",
+        "valeur":"Dix"
+    },
+    "13": {
+        "couleur":"Carreau",
+        "num":"11",
+        "valeur":"Valet"
+    },
+    "14": {
+        "couleur":"Carreau",
+        "num":"12",
+        "valeur":"Dame"
+    },
+    "15": {
+        "couleur":"Carreau",
+        "num":"13",
+        "valeur":"Roi"
+    },
+    "16": {
+        "couleur":"Carreau",
+        "num":"14",
+        "valeur":"As"
+    },
+    "17": {
+        "couleur":"Coeur",
+        "num":"7",
+        "valeur":"Sept"
+    },
+    "18": {
+        "couleur":"Coeur",
+        "num":"8",
+        "valeur":"Huit"
+    },
+    "19": {
+        "couleur":"Coeur",
+        "num":"9",
+        "valeur":"Neuf"
+    },
+    "20": {
+        "couleur":"Coeur",
+        "num":"10",
+        "valeur":"Dix"
+    },
+    "21": {
+        "couleur":"Coeur",
+        "num":"11",
+        "valeur":"Valet"
+    },
+    "22": {
+        "couleur":"Coeur",
+        "num":"12",
+        "valeur":"Dame"
+    },
+    "23": {
+        "couleur":"Coeur",
+        "num":"13",
+        "valeur":"Roi"
+    },
+    "24": {
+        "couleur":"Coeur",
+        "num":"14",
+        "valeur":"As"
+    },
+    "25": {
+        "couleur":"Trefle",
+        "num":"7",
+        "valeur":"Sept"
+    },
+    "26": {
+        "couleur":"Trefle",
+        "num":"8",
+        "valeur":"Huit"
+    },
+    "27": {
+        "couleur":"Trefle",
+        "num":"9",
+        "valeur":"Neuf"
+    },
+    "28": {
+        "couleur":"Trefle",
+        "num":"10",
+        "valeur":"Dix"
+    },
+    "29": {
+        "couleur":"Trefle",
+        "num":"11",
+        "valeur":"Valet"
+    },
+    "30": {
+        "couleur":"Trefle",
+        "num":"12",
+        "valeur":"Dame"
+    },
+    "31": {
+        "couleur":"Trefle",
+        "num":"13",
+        "valeur":"Roi"
+    },
+    "32": {
+        "couleur":"Trefle",
+        "num":"14",
+        "valeur":"As"
+    },
+    "33": {
+        "couleur":"Joker",
+        "num":"33",
+        "valeur":"Joker"
+    }
+}

@@ -1,0 +1,212 @@
+02/17/2020 07:04:35 AM ______ Mon Oracle ________
+02/17/2020 07:04:35 AM ______________ Repertoire de Logs:  C:\Users\celerierma\OneDrive - Groupe BPCE\00-PROJETS\00-MDW\scripts\monoracle\logs\
+02/17/2020 07:04:35 AM __ Melanger __
+02/17/2020 07:04:35 AM         Info sur la carte : [1, '7', 'Pique', 'Sept']
+02/17/2020 07:04:35 AM         Info sur la carte : [2, '8', 'Pique', 'Huit']
+02/17/2020 07:04:35 AM         Info sur la carte : [3, '9', 'Pique', 'Neuf']
+02/17/2020 07:04:35 AM         Info sur la carte : [4, '10', 'Pique', 'Dix']
+02/17/2020 07:04:35 AM         Info sur la carte : [5, '11', 'Pique', 'Valet']
+02/17/2020 07:04:35 AM         Info sur la carte : [6, '12', 'Pique', 'Dame']
+02/17/2020 07:04:35 AM         Info sur la carte : [7, '13', 'Pique', 'Roi']
+02/17/2020 07:04:35 AM         Info sur la carte : [8, '14', 'Pique', 'As']
+02/17/2020 07:04:35 AM         Info sur la carte : [9, '7', 'Carreau', 'Sept']
+02/17/2020 07:04:35 AM         Info sur la carte : [10, '8', 'Carreau', 'Carreau']
+02/17/2020 07:04:35 AM         Info sur la carte : [11, '9', 'Carreau', 'Neuf']
+02/17/2020 07:04:35 AM         Info sur la carte : [12, '10', 'Carreau', 'Dix']
+02/17/2020 07:04:35 AM         Info sur la carte : [13, '11', 'Carreau', 'Valet']
+02/17/2020 07:04:35 AM         Info sur la carte : [14, '12', 'Carreau', 'Dame']
+02/17/2020 07:04:35 AM         Info sur la carte : [15, '13', 'Carreau', 'Roi']
+02/17/2020 07:04:35 AM         Info sur la carte : [16, '14', 'Carreau', 'As']
+02/17/2020 07:04:35 AM         Info sur la carte : [17, '7', 'Coeur', 'Sept']
+02/17/2020 07:04:35 AM         Info sur la carte : [18, '8', 'Coeur', 'Huit']
+02/17/2020 07:04:35 AM         Info sur la carte : [19, '9', 'Coeur', 'Neuf']
+02/17/2020 07:04:35 AM         Info sur la carte : [20, '10', 'Coeur', 'Dix']
+02/17/2020 07:04:35 AM         Info sur la carte : [21, '11', 'Coeur', 'Valet']
+02/17/2020 07:04:35 AM         Info sur la carte : [22, '12', 'Coeur', 'Dame']
+02/17/2020 07:04:35 AM         Info sur la carte : [23, '13', 'Coeur', 'Roi']
+02/17/2020 07:04:35 AM         Info sur la carte : [24, '14', 'Coeur', 'As']
+02/17/2020 07:04:35 AM         Info sur la carte : [25, '7', 'Trefle', 'Sept']
+02/17/2020 07:04:35 AM         Info sur la carte : [26, '8', 'Trefle', 'Huit']
+02/17/2020 07:04:35 AM         Info sur la carte : [27, '9', 'Trefle', 'Neuf']
+02/17/2020 07:04:35 AM         Info sur la carte : [28, '10', 'Trefle', 'Dix']
+02/17/2020 07:04:35 AM         Info sur la carte : [29, '11', 'Trefle', 'Valet']
+02/17/2020 07:04:35 AM         Info sur la carte : [30, '12', 'Trefle', 'Dame']
+02/17/2020 07:04:35 AM         Info sur la carte : [31, '13', 'Trefle', 'Roi']
+02/17/2020 07:04:35 AM         Info sur la carte : [32, '14', 'Trefle', 'As']
+02/17/2020 07:04:35 AM         Info sur la carte : [33, '33', 'Joker', 'Joker']
+02/17/2020 07:04:35 AM 	Tirage Num: 1
+02/17/2020 07:04:35 AM         Index choisit : 7
+02/17/2020 07:04:35 AM         Ligne trouvée : [7, '13', 'Pique', 'Roi']
+02/17/2020 07:04:35 AM         ------------------------------------
+02/17/2020 07:04:35 AM         Suppression de la carte extraite du tableau de jeu : [7, '13', 'Pique', 'Roi'] a l index: 6
+02/17/2020 07:04:35 AM         ==> Contenu du jeu apres suppression: [[1, '7', 'Pique', 'Sept'], [2, '8', 'Pique', 'Huit'], [3, '9', 'Pique', 'Neuf'], [4, '10', 'Pique', 'Dix'], [5, '11', 'Pique', 'Valet'], [6, '12', 'Pique', 'Dame'], [8, '14', 'Pique', 'As'], [9, '7', 'Carreau', 'Sept'], [10, '8', 'Carreau', 'Carreau'], [11, '9', 'Carreau', 'Neuf'], [12, '10', 'Carreau', 'Dix'], [13, '11', 'Carreau', 'Valet'], [14, '12', 'Carreau', 'Dame'], [15, '13', 'Carreau', 'Roi'], [16, '14', 'Carreau', 'As'], [17, '7', 'Coeur', 'Sept'], [18, '8', 'Coeur', 'Huit'], [19, '9', 'Coeur', 'Neuf'], [20, '10', 'Coeur', 'Dix'], [21, '11', 'Coeur', 'Valet'], [22, '12', 'Coeur', 'Dame'], [23, '13', 'Coeur', 'Roi'], [24, '14', 'Coeur', 'As'], [25, '7', 'Trefle', 'Sept'], [26, '8', 'Trefle', 'Huit'], [27, '9', 'Trefle', 'Neuf'], [28, '10', 'Trefle', 'Dix'], [29, '11', 'Trefle', 'Valet'], [30, '12', 'Trefle', 'Dame'], [31, '13', 'Trefle', 'Roi'], [32, '14', 'Trefle', 'As'], [33, '33', 'Joker', 'Joker']]
+02/17/2020 07:04:35 AM         ____________________________________
+02/17/2020 07:04:35 AM         Index choisit : 9
+02/17/2020 07:04:35 AM         Ligne trouvée : [9, '7', 'Carreau', 'Sept']
+02/17/2020 07:04:35 AM         ------------------------------------
+02/17/2020 07:04:35 AM         Suppression de la carte extraite du tableau de jeu : [9, '7', 'Carreau', 'Sept'] a l index: 9
+02/17/2020 07:04:35 AM         ==> Contenu du jeu apres suppression: [[1, '7', 'Pique', 'Sept'], [2, '8', 'Pique', 'Huit'], [3, '9', 'Pique', 'Neuf'], [4, '10', 'Pique', 'Dix'], [5, '11', 'Pique', 'Valet'], [6, '12', 'Pique', 'Dame'], [8, '14', 'Pique', 'As'], [9, '7', 'Carreau', 'Sept'], [10, '8', 'Carreau', 'Carreau'], [12, '10', 'Carreau', 'Dix'], [13, '11', 'Carreau', 'Valet'], [14, '12', 'Carreau', 'Dame'], [15, '13', 'Carreau', 'Roi'], [16, '14', 'Carreau', 'As'], [17, '7', 'Coeur', 'Sept'], [18, '8', 'Coeur', 'Huit'], [19, '9', 'Coeur', 'Neuf'], [20, '10', 'Coeur', 'Dix'], [21, '11', 'Coeur', 'Valet'], [22, '12', 'Coeur', 'Dame'], [23, '13', 'Coeur', 'Roi'], [24, '14', 'Coeur', 'As'], [25, '7', 'Trefle', 'Sept'], [26, '8', 'Trefle', 'Huit'], [27, '9', 'Trefle', 'Neuf'], [28, '10', 'Trefle', 'Dix'], [29, '11', 'Trefle', 'Valet'], [30, '12', 'Trefle', 'Dame'], [31, '13', 'Trefle', 'Roi'], [32, '14', 'Trefle', 'As'], [33, '33', 'Joker', 'Joker']]
+02/17/2020 07:04:35 AM         ____________________________________
+02/17/2020 07:04:35 AM         Index choisit : 12
+02/17/2020 07:04:35 AM         Ligne trouvée : [12, '10', 'Carreau', 'Dix']
+02/17/2020 07:04:35 AM         ------------------------------------
+02/17/2020 07:04:35 AM         Suppression de la carte extraite du tableau de jeu : [12, '10', 'Carreau', 'Dix'] a l index: 13
+02/17/2020 07:04:35 AM         ==> Contenu du jeu apres suppression: [[1, '7', 'Pique', 'Sept'], [2, '8', 'Pique', 'Huit'], [3, '9', 'Pique', 'Neuf'], [4, '10', 'Pique', 'Dix'], [5, '11', 'Pique', 'Valet'], [6, '12', 'Pique', 'Dame'], [8, '14', 'Pique', 'As'], [9, '7', 'Carreau', 'Sept'], [10, '8', 'Carreau', 'Carreau'], [12, '10', 'Carreau', 'Dix'], [13, '11', 'Carreau', 'Valet'], [14, '12', 'Carreau', 'Dame'], [15, '13', 'Carreau', 'Roi'], [17, '7', 'Coeur', 'Sept'], [18, '8', 'Coeur', 'Huit'], [19, '9', 'Coeur', 'Neuf'], [20, '10', 'Coeur', 'Dix'], [21, '11', 'Coeur', 'Valet'], [22, '12', 'Coeur', 'Dame'], [23, '13', 'Coeur', 'Roi'], [24, '14', 'Coeur', 'As'], [25, '7', 'Trefle', 'Sept'], [26, '8', 'Trefle', 'Huit'], [27, '9', 'Trefle', 'Neuf'], [28, '10', 'Trefle', 'Dix'], [29, '11', 'Trefle', 'Valet'], [30, '12', 'Trefle', 'Dame'], [31, '13', 'Trefle', 'Roi'], [32, '14', 'Trefle', 'As'], [33, '33', 'Joker', 'Joker']]
+02/17/2020 07:04:35 AM         ____________________________________
+02/17/2020 07:04:35 AM         Index choisit : 9
+02/17/2020 07:04:35 AM         Ligne trouvée : [9, '7', 'Carreau', 'Sept']
+02/17/2020 07:04:35 AM         ------------------------------------
+02/17/2020 07:04:35 AM         Suppression de la carte extraite du tableau de jeu : [9, '7', 'Carreau', 'Sept'] a l index: 11
+02/17/2020 07:04:35 AM         ==> Contenu du jeu apres suppression: [[1, '7', 'Pique', 'Sept'], [2, '8', 'Pique', 'Huit'], [3, '9', 'Pique', 'Neuf'], [4, '10', 'Pique', 'Dix'], [5, '11', 'Pique', 'Valet'], [6, '12', 'Pique', 'Dame'], [8, '14', 'Pique', 'As'], [9, '7', 'Carreau', 'Sept'], [10, '8', 'Carreau', 'Carreau'], [12, '10', 'Carreau', 'Dix'], [13, '11', 'Carreau', 'Valet'], [15, '13', 'Carreau', 'Roi'], [17, '7', 'Coeur', 'Sept'], [18, '8', 'Coeur', 'Huit'], [19, '9', 'Coeur', 'Neuf'], [20, '10', 'Coeur', 'Dix'], [21, '11', 'Coeur', 'Valet'], [22, '12', 'Coeur', 'Dame'], [23, '13', 'Coeur', 'Roi'], [24, '14', 'Coeur', 'As'], [25, '7', 'Trefle', 'Sept'], [26, '8', 'Trefle', 'Huit'], [27, '9', 'Trefle', 'Neuf'], [28, '10', 'Trefle', 'Dix'], [29, '11', 'Trefle', 'Valet'], [30, '12', 'Trefle', 'Dame'], [31, '13', 'Trefle', 'Roi'], [32, '14', 'Trefle', 'As'], [33, '33', 'Joker', 'Joker']]
+02/17/2020 07:04:35 AM         ____________________________________
+02/17/2020 07:04:35 AM         Index choisit : 10
+02/17/2020 07:04:35 AM         Ligne trouvée : [10, '8', 'Carreau', 'Carreau']
+02/17/2020 07:04:35 AM         ------------------------------------
+02/17/2020 07:04:35 AM         Suppression de la carte extraite du tableau de jeu : [10, '8', 'Carreau', 'Carreau'] a l index: 13
+02/17/2020 07:04:35 AM         ==> Contenu du jeu apres suppression: [[1, '7', 'Pique', 'Sept'], [2, '8', 'Pique', 'Huit'], [3, '9', 'Pique', 'Neuf'], [4, '10', 'Pique', 'Dix'], [5, '11', 'Pique', 'Valet'], [6, '12', 'Pique', 'Dame'], [8, '14', 'Pique', 'As'], [9, '7', 'Carreau', 'Sept'], [10, '8', 'Carreau', 'Carreau'], [12, '10', 'Carreau', 'Dix'], [13, '11', 'Carreau', 'Valet'], [15, '13', 'Carreau', 'Roi'], [17, '7', 'Coeur', 'Sept'], [19, '9', 'Coeur', 'Neuf'], [20, '10', 'Coeur', 'Dix'], [21, '11', 'Coeur', 'Valet'], [22, '12', 'Coeur', 'Dame'], [23, '13', 'Coeur', 'Roi'], [24, '14', 'Coeur', 'As'], [25, '7', 'Trefle', 'Sept'], [26, '8', 'Trefle', 'Huit'], [27, '9', 'Trefle', 'Neuf'], [28, '10', 'Trefle', 'Dix'], [29, '11', 'Trefle', 'Valet'], [30, '12', 'Trefle', 'Dame'], [31, '13', 'Trefle', 'Roi'], [32, '14', 'Trefle', 'As'], [33, '33', 'Joker', 'Joker']]
+02/17/2020 07:04:35 AM         ____________________________________
+02/17/2020 07:04:35 AM         Index choisit : 23
+02/17/2020 07:04:35 AM         Ligne trouvée : [23, '13', 'Coeur', 'Roi']
+02/17/2020 07:04:35 AM         ------------------------------------
+02/17/2020 07:04:35 AM         Suppression de la carte extraite du tableau de jeu : [23, '13', 'Coeur', 'Roi'] a l index: 27
+02/17/2020 07:04:35 AM         ==> Contenu du jeu apres suppression: [[1, '7', 'Pique', 'Sept'], [2, '8', 'Pique', 'Huit'], [3, '9', 'Pique', 'Neuf'], [4, '10', 'Pique', 'Dix'], [5, '11', 'Pique', 'Valet'], [6, '12', 'Pique', 'Dame'], [8, '14', 'Pique', 'As'], [9, '7', 'Carreau', 'Sept'], [10, '8', 'Carreau', 'Carreau'], [12, '10', 'Carreau', 'Dix'], [13, '11', 'Carreau', 'Valet'], [15, '13', 'Carreau', 'Roi'], [17, '7', 'Coeur', 'Sept'], [19, '9', 'Coeur', 'Neuf'], [20, '10', 'Coeur', 'Dix'], [21, '11', 'Coeur', 'Valet'], [22, '12', 'Coeur', 'Dame'], [23, '13', 'Coeur', 'Roi'], [24, '14', 'Coeur', 'As'], [25, '7', 'Trefle', 'Sept'], [26, '8', 'Trefle', 'Huit'], [27, '9', 'Trefle', 'Neuf'], [28, '10', 'Trefle', 'Dix'], [29, '11', 'Trefle', 'Valet'], [30, '12', 'Trefle', 'Dame'], [31, '13', 'Trefle', 'Roi'], [32, '14', 'Trefle', 'As']]
+02/17/2020 07:04:35 AM         ____________________________________
+02/17/2020 07:04:35 AM         Index choisit : 26
+02/17/2020 07:04:35 AM         Ligne trouvée : [26, '8', 'Trefle', 'Huit']
+02/17/2020 07:04:35 AM         ------------------------------------
+02/17/2020 07:04:35 AM         Suppression de la carte extraite du tableau de jeu : [26, '8', 'Trefle', 'Huit'] a l index: 31
+02/17/2020 07:04:35 AM         /!\ G UNE ERREUR : [26, '8', 'Trefle', 'Huit'] a l index: 31
+02/17/2020 07:04:35 AM         Index choisit : 26
+02/17/2020 07:04:35 AM         Ligne trouvée : [26, '8', 'Trefle', 'Huit']
+02/17/2020 07:04:35 AM         ------------------------------------
+02/17/2020 07:04:35 AM         Suppression de la carte extraite du tableau de jeu : [26, '8', 'Trefle', 'Huit'] a l index: 31
+02/17/2020 07:04:35 AM         /!\ G UNE ERREUR : [26, '8', 'Trefle', 'Huit'] a l index: 31
+02/17/2020 07:04:35 AM         Index choisit : 25
+02/17/2020 07:04:35 AM         Ligne trouvée : [25, '7', 'Trefle', 'Sept']
+02/17/2020 07:04:35 AM         ------------------------------------
+02/17/2020 07:04:35 AM         Suppression de la carte extraite du tableau de jeu : [25, '7', 'Trefle', 'Sept'] a l index: 30
+02/17/2020 07:04:35 AM         /!\ G UNE ERREUR : [25, '7', 'Trefle', 'Sept'] a l index: 30
+02/17/2020 07:04:35 AM         Index choisit : 21
+02/17/2020 07:04:35 AM         Ligne trouvée : [21, '11', 'Coeur', 'Valet']
+02/17/2020 07:04:35 AM         ------------------------------------
+02/17/2020 07:04:35 AM         Suppression de la carte extraite du tableau de jeu : [21, '11', 'Coeur', 'Valet'] a l index: 26
+02/17/2020 07:04:35 AM         ==> Contenu du jeu apres suppression: [[1, '7', 'Pique', 'Sept'], [2, '8', 'Pique', 'Huit'], [3, '9', 'Pique', 'Neuf'], [4, '10', 'Pique', 'Dix'], [5, '11', 'Pique', 'Valet'], [6, '12', 'Pique', 'Dame'], [8, '14', 'Pique', 'As'], [9, '7', 'Carreau', 'Sept'], [10, '8', 'Carreau', 'Carreau'], [12, '10', 'Carreau', 'Dix'], [13, '11', 'Carreau', 'Valet'], [15, '13', 'Carreau', 'Roi'], [17, '7', 'Coeur', 'Sept'], [19, '9', 'Coeur', 'Neuf'], [20, '10', 'Coeur', 'Dix'], [21, '11', 'Coeur', 'Valet'], [22, '12', 'Coeur', 'Dame'], [23, '13', 'Coeur', 'Roi'], [24, '14', 'Coeur', 'As'], [25, '7', 'Trefle', 'Sept'], [26, '8', 'Trefle', 'Huit'], [27, '9', 'Trefle', 'Neuf'], [28, '10', 'Trefle', 'Dix'], [29, '11', 'Trefle', 'Valet'], [30, '12', 'Trefle', 'Dame'], [31, '13', 'Trefle', 'Roi']]
+02/17/2020 07:04:35 AM         ____________________________________
+02/17/2020 07:04:35 AM 	Tirage Num: 2
+02/17/2020 07:04:35 AM         Index choisit : 21
+02/17/2020 07:04:35 AM         Ligne trouvée : [21, '11', 'Coeur', 'Valet']
+02/17/2020 07:04:35 AM         ------------------------------------
+02/17/2020 07:04:35 AM         Suppression de la carte extraite du tableau de jeu : [21, '11', 'Coeur', 'Valet'] a l index: 27
+02/17/2020 07:04:35 AM         /!\ G UNE ERREUR : [21, '11', 'Coeur', 'Valet'] a l index: 27
+02/17/2020 07:04:35 AM         Index choisit : 13
+02/17/2020 07:04:35 AM         Ligne trouvée : [13, '11', 'Carreau', 'Valet']
+02/17/2020 07:04:35 AM         ------------------------------------
+02/17/2020 07:04:35 AM         Suppression de la carte extraite du tableau de jeu : [13, '11', 'Carreau', 'Valet'] a l index: 19
+02/17/2020 07:04:35 AM         ==> Contenu du jeu apres suppression: [[1, '7', 'Pique', 'Sept'], [2, '8', 'Pique', 'Huit'], [3, '9', 'Pique', 'Neuf'], [4, '10', 'Pique', 'Dix'], [5, '11', 'Pique', 'Valet'], [6, '12', 'Pique', 'Dame'], [8, '14', 'Pique', 'As'], [9, '7', 'Carreau', 'Sept'], [10, '8', 'Carreau', 'Carreau'], [12, '10', 'Carreau', 'Dix'], [13, '11', 'Carreau', 'Valet'], [15, '13', 'Carreau', 'Roi'], [17, '7', 'Coeur', 'Sept'], [19, '9', 'Coeur', 'Neuf'], [20, '10', 'Coeur', 'Dix'], [21, '11', 'Coeur', 'Valet'], [22, '12', 'Coeur', 'Dame'], [23, '13', 'Coeur', 'Roi'], [24, '14', 'Coeur', 'As'], [26, '8', 'Trefle', 'Huit'], [27, '9', 'Trefle', 'Neuf'], [28, '10', 'Trefle', 'Dix'], [29, '11', 'Trefle', 'Valet'], [30, '12', 'Trefle', 'Dame'], [31, '13', 'Trefle', 'Roi']]
+02/17/2020 07:04:35 AM         ____________________________________
+02/17/2020 07:04:35 AM         Index choisit : 8
+02/17/2020 07:04:35 AM         Ligne trouvée : [8, '14', 'Pique', 'As']
+02/17/2020 07:04:35 AM         ------------------------------------
+02/17/2020 07:04:35 AM         Carte extraite et ajouté au tableau de sortie : [8, '14', 'Pique', 'As']
+02/17/2020 07:04:35 AM         Suppression de la carte extraite du tableau de jeu : [8, '14', 'Pique', 'As'] a l index: 15
+02/17/2020 07:04:35 AM         ==> Contenu du jeu apres suppression: [[1, '7', 'Pique', 'Sept'], [2, '8', 'Pique', 'Huit'], [3, '9', 'Pique', 'Neuf'], [4, '10', 'Pique', 'Dix'], [5, '11', 'Pique', 'Valet'], [6, '12', 'Pique', 'Dame'], [8, '14', 'Pique', 'As'], [9, '7', 'Carreau', 'Sept'], [10, '8', 'Carreau', 'Carreau'], [12, '10', 'Carreau', 'Dix'], [13, '11', 'Carreau', 'Valet'], [15, '13', 'Carreau', 'Roi'], [17, '7', 'Coeur', 'Sept'], [19, '9', 'Coeur', 'Neuf'], [20, '10', 'Coeur', 'Dix'], [22, '12', 'Coeur', 'Dame'], [23, '13', 'Coeur', 'Roi'], [24, '14', 'Coeur', 'As'], [26, '8', 'Trefle', 'Huit'], [27, '9', 'Trefle', 'Neuf'], [28, '10', 'Trefle', 'Dix'], [29, '11', 'Trefle', 'Valet'], [30, '12', 'Trefle', 'Dame'], [31, '13', 'Trefle', 'Roi']]
+02/17/2020 07:04:35 AM         ____________________________________
+02/17/2020 07:04:35 AM         Index choisit : 20
+02/17/2020 07:04:35 AM         Ligne trouvée : [20, '10', 'Coeur', 'Dix']
+02/17/2020 07:04:35 AM         ------------------------------------
+02/17/2020 07:04:35 AM         Suppression de la carte extraite du tableau de jeu : [20, '10', 'Coeur', 'Dix'] a l index: 28
+02/17/2020 07:04:35 AM         /!\ G UNE ERREUR : [20, '10', 'Coeur', 'Dix'] a l index: 28
+02/17/2020 07:04:35 AM         Index choisit : 4
+02/17/2020 07:04:35 AM         Ligne trouvée : [4, '10', 'Pique', 'Dix']
+02/17/2020 07:04:35 AM         ------------------------------------
+02/17/2020 07:04:35 AM         Suppression de la carte extraite du tableau de jeu : [4, '10', 'Pique', 'Dix'] a l index: 12
+02/17/2020 07:04:35 AM         ==> Contenu du jeu apres suppression: [[1, '7', 'Pique', 'Sept'], [2, '8', 'Pique', 'Huit'], [3, '9', 'Pique', 'Neuf'], [4, '10', 'Pique', 'Dix'], [5, '11', 'Pique', 'Valet'], [6, '12', 'Pique', 'Dame'], [8, '14', 'Pique', 'As'], [9, '7', 'Carreau', 'Sept'], [10, '8', 'Carreau', 'Carreau'], [12, '10', 'Carreau', 'Dix'], [13, '11', 'Carreau', 'Valet'], [15, '13', 'Carreau', 'Roi'], [19, '9', 'Coeur', 'Neuf'], [20, '10', 'Coeur', 'Dix'], [22, '12', 'Coeur', 'Dame'], [23, '13', 'Coeur', 'Roi'], [24, '14', 'Coeur', 'As'], [26, '8', 'Trefle', 'Huit'], [27, '9', 'Trefle', 'Neuf'], [28, '10', 'Trefle', 'Dix'], [29, '11', 'Trefle', 'Valet'], [30, '12', 'Trefle', 'Dame'], [31, '13', 'Trefle', 'Roi']]
+02/17/2020 07:04:35 AM         ____________________________________
+02/17/2020 07:04:35 AM         Index choisit : 15
+02/17/2020 07:04:35 AM         Ligne trouvée : [15, '13', 'Carreau', 'Roi']
+02/17/2020 07:04:35 AM         ------------------------------------
+02/17/2020 07:04:35 AM         Suppression de la carte extraite du tableau de jeu : [15, '13', 'Carreau', 'Roi'] a l index: 24
+02/17/2020 07:04:35 AM         /!\ G UNE ERREUR : [15, '13', 'Carreau', 'Roi'] a l index: 24
+02/17/2020 07:04:35 AM         Index choisit : 2
+02/17/2020 07:04:35 AM         Ligne trouvée : [2, '8', 'Pique', 'Huit']
+02/17/2020 07:04:35 AM         ------------------------------------
+02/17/2020 07:04:35 AM         Suppression de la carte extraite du tableau de jeu : [2, '8', 'Pique', 'Huit'] a l index: 11
+02/17/2020 07:04:35 AM         ==> Contenu du jeu apres suppression: [[1, '7', 'Pique', 'Sept'], [2, '8', 'Pique', 'Huit'], [3, '9', 'Pique', 'Neuf'], [4, '10', 'Pique', 'Dix'], [5, '11', 'Pique', 'Valet'], [6, '12', 'Pique', 'Dame'], [8, '14', 'Pique', 'As'], [9, '7', 'Carreau', 'Sept'], [10, '8', 'Carreau', 'Carreau'], [12, '10', 'Carreau', 'Dix'], [13, '11', 'Carreau', 'Valet'], [19, '9', 'Coeur', 'Neuf'], [20, '10', 'Coeur', 'Dix'], [22, '12', 'Coeur', 'Dame'], [23, '13', 'Coeur', 'Roi'], [24, '14', 'Coeur', 'As'], [26, '8', 'Trefle', 'Huit'], [27, '9', 'Trefle', 'Neuf'], [28, '10', 'Trefle', 'Dix'], [29, '11', 'Trefle', 'Valet'], [30, '12', 'Trefle', 'Dame'], [31, '13', 'Trefle', 'Roi']]
+02/17/2020 07:04:35 AM         ____________________________________
+02/17/2020 07:04:35 AM         Index choisit : 4
+02/17/2020 07:04:35 AM         Ligne trouvée : [4, '10', 'Pique', 'Dix']
+02/17/2020 07:04:35 AM         ------------------------------------
+02/17/2020 07:04:35 AM         Suppression de la carte extraite du tableau de jeu : [4, '10', 'Pique', 'Dix'] a l index: 14
+02/17/2020 07:04:35 AM         ==> Contenu du jeu apres suppression: [[1, '7', 'Pique', 'Sept'], [2, '8', 'Pique', 'Huit'], [3, '9', 'Pique', 'Neuf'], [4, '10', 'Pique', 'Dix'], [5, '11', 'Pique', 'Valet'], [6, '12', 'Pique', 'Dame'], [8, '14', 'Pique', 'As'], [9, '7', 'Carreau', 'Sept'], [10, '8', 'Carreau', 'Carreau'], [12, '10', 'Carreau', 'Dix'], [13, '11', 'Carreau', 'Valet'], [19, '9', 'Coeur', 'Neuf'], [20, '10', 'Coeur', 'Dix'], [22, '12', 'Coeur', 'Dame'], [24, '14', 'Coeur', 'As'], [26, '8', 'Trefle', 'Huit'], [27, '9', 'Trefle', 'Neuf'], [28, '10', 'Trefle', 'Dix'], [29, '11', 'Trefle', 'Valet'], [30, '12', 'Trefle', 'Dame'], [31, '13', 'Trefle', 'Roi']]
+02/17/2020 07:04:35 AM         ____________________________________
+02/17/2020 07:04:35 AM         Index choisit : 3
+02/17/2020 07:04:35 AM         Ligne trouvée : [3, '9', 'Pique', 'Neuf']
+02/17/2020 07:04:35 AM         ------------------------------------
+02/17/2020 07:04:35 AM         Suppression de la carte extraite du tableau de jeu : [3, '9', 'Pique', 'Neuf'] a l index: 14
+02/17/2020 07:04:35 AM         ==> Contenu du jeu apres suppression: [[1, '7', 'Pique', 'Sept'], [2, '8', 'Pique', 'Huit'], [3, '9', 'Pique', 'Neuf'], [4, '10', 'Pique', 'Dix'], [5, '11', 'Pique', 'Valet'], [6, '12', 'Pique', 'Dame'], [8, '14', 'Pique', 'As'], [9, '7', 'Carreau', 'Sept'], [10, '8', 'Carreau', 'Carreau'], [12, '10', 'Carreau', 'Dix'], [13, '11', 'Carreau', 'Valet'], [19, '9', 'Coeur', 'Neuf'], [20, '10', 'Coeur', 'Dix'], [22, '12', 'Coeur', 'Dame'], [26, '8', 'Trefle', 'Huit'], [27, '9', 'Trefle', 'Neuf'], [28, '10', 'Trefle', 'Dix'], [29, '11', 'Trefle', 'Valet'], [30, '12', 'Trefle', 'Dame'], [31, '13', 'Trefle', 'Roi']]
+02/17/2020 07:04:35 AM         ____________________________________
+02/17/2020 07:04:35 AM         Index choisit : 12
+02/17/2020 07:04:35 AM         Ligne trouvée : [12, '10', 'Carreau', 'Dix']
+02/17/2020 07:04:35 AM         ------------------------------------
+02/17/2020 07:04:35 AM         Suppression de la carte extraite du tableau de jeu : [12, '10', 'Carreau', 'Dix'] a l index: 24
+02/17/2020 07:04:35 AM         /!\ G UNE ERREUR : [12, '10', 'Carreau', 'Dix'] a l index: 24
+02/17/2020 07:04:35 AM 	Tirage Num: 3
+02/17/2020 07:04:35 AM         Index choisit : 1
+02/17/2020 07:04:35 AM         Ligne trouvée : [1, '7', 'Pique', 'Sept']
+02/17/2020 07:04:35 AM         ------------------------------------
+02/17/2020 07:04:35 AM         Suppression de la carte extraite du tableau de jeu : [1, '7', 'Pique', 'Sept'] a l index: 13
+02/17/2020 07:04:35 AM         ==> Contenu du jeu apres suppression: [[1, '7', 'Pique', 'Sept'], [2, '8', 'Pique', 'Huit'], [3, '9', 'Pique', 'Neuf'], [4, '10', 'Pique', 'Dix'], [5, '11', 'Pique', 'Valet'], [6, '12', 'Pique', 'Dame'], [8, '14', 'Pique', 'As'], [9, '7', 'Carreau', 'Sept'], [10, '8', 'Carreau', 'Carreau'], [12, '10', 'Carreau', 'Dix'], [13, '11', 'Carreau', 'Valet'], [19, '9', 'Coeur', 'Neuf'], [20, '10', 'Coeur', 'Dix'], [26, '8', 'Trefle', 'Huit'], [27, '9', 'Trefle', 'Neuf'], [28, '10', 'Trefle', 'Dix'], [29, '11', 'Trefle', 'Valet'], [30, '12', 'Trefle', 'Dame'], [31, '13', 'Trefle', 'Roi']]
+02/17/2020 07:04:35 AM         ____________________________________
+02/17/2020 07:04:35 AM         Index choisit : 9
+02/17/2020 07:04:35 AM         Ligne trouvée : [9, '7', 'Carreau', 'Sept']
+02/17/2020 07:04:35 AM         ------------------------------------
+02/17/2020 07:04:35 AM         Suppression de la carte extraite du tableau de jeu : [9, '7', 'Carreau', 'Sept'] a l index: 22
+02/17/2020 07:04:35 AM         /!\ G UNE ERREUR : [9, '7', 'Carreau', 'Sept'] a l index: 22
+02/17/2020 07:04:35 AM         Index choisit : 2
+02/17/2020 07:04:35 AM         Ligne trouvée : [2, '8', 'Pique', 'Huit']
+02/17/2020 07:04:35 AM         ------------------------------------
+02/17/2020 07:04:35 AM         Suppression de la carte extraite du tableau de jeu : [2, '8', 'Pique', 'Huit'] a l index: 15
+02/17/2020 07:04:35 AM         ==> Contenu du jeu apres suppression: [[1, '7', 'Pique', 'Sept'], [2, '8', 'Pique', 'Huit'], [3, '9', 'Pique', 'Neuf'], [4, '10', 'Pique', 'Dix'], [5, '11', 'Pique', 'Valet'], [6, '12', 'Pique', 'Dame'], [8, '14', 'Pique', 'As'], [9, '7', 'Carreau', 'Sept'], [10, '8', 'Carreau', 'Carreau'], [12, '10', 'Carreau', 'Dix'], [13, '11', 'Carreau', 'Valet'], [19, '9', 'Coeur', 'Neuf'], [20, '10', 'Coeur', 'Dix'], [26, '8', 'Trefle', 'Huit'], [27, '9', 'Trefle', 'Neuf'], [29, '11', 'Trefle', 'Valet'], [30, '12', 'Trefle', 'Dame'], [31, '13', 'Trefle', 'Roi']]
+02/17/2020 07:04:35 AM         ____________________________________
+02/17/2020 07:04:35 AM         Index choisit : 10
+02/17/2020 07:04:35 AM         Ligne trouvée : [10, '8', 'Carreau', 'Carreau']
+02/17/2020 07:04:35 AM         ------------------------------------
+02/17/2020 07:04:35 AM         Suppression de la carte extraite du tableau de jeu : [10, '8', 'Carreau', 'Carreau'] a l index: 24
+02/17/2020 07:04:35 AM         /!\ G UNE ERREUR : [10, '8', 'Carreau', 'Carreau'] a l index: 24
+02/17/2020 07:04:35 AM         Index choisit : 8
+02/17/2020 07:04:35 AM         Ligne trouvée : [8, '14', 'Pique', 'As']
+02/17/2020 07:04:35 AM         ------------------------------------
+02/17/2020 07:04:35 AM         Carte extraite et ajouté au tableau de sortie : [8, '14', 'Pique', 'As']
+02/17/2020 07:04:35 AM         Suppression de la carte extraite du tableau de jeu : [8, '14', 'Pique', 'As'] a l index: 22
+02/17/2020 07:04:35 AM         /!\ G UNE ERREUR : [8, '14', 'Pique', 'As'] a l index: 22
+02/17/2020 07:04:35 AM         Index choisit : 4
+02/17/2020 07:04:35 AM         Ligne trouvée : [4, '10', 'Pique', 'Dix']
+02/17/2020 07:04:35 AM         ------------------------------------
+02/17/2020 07:04:35 AM         Suppression de la carte extraite du tableau de jeu : [4, '10', 'Pique', 'Dix'] a l index: 18
+02/17/2020 07:04:35 AM         /!\ G UNE ERREUR : [4, '10', 'Pique', 'Dix'] a l index: 18
+02/17/2020 07:04:35 AM         Index choisit : 4
+02/17/2020 07:04:35 AM         Ligne trouvée : [4, '10', 'Pique', 'Dix']
+02/17/2020 07:04:35 AM         ------------------------------------
+02/17/2020 07:04:35 AM         Suppression de la carte extraite du tableau de jeu : [4, '10', 'Pique', 'Dix'] a l index: 18
+02/17/2020 07:04:35 AM         /!\ G UNE ERREUR : [4, '10', 'Pique', 'Dix'] a l index: 18
+02/17/2020 07:04:35 AM         Index choisit : 6
+02/17/2020 07:04:35 AM         Ligne trouvée : [6, '12', 'Pique', 'Dame']
+02/17/2020 07:04:35 AM         ------------------------------------
+02/17/2020 07:04:35 AM         Suppression de la carte extraite du tableau de jeu : [6, '12', 'Pique', 'Dame'] a l index: 20
+02/17/2020 07:04:35 AM         /!\ G UNE ERREUR : [6, '12', 'Pique', 'Dame'] a l index: 20
+02/17/2020 07:04:35 AM         Index choisit : 2
+02/17/2020 07:04:35 AM         Ligne trouvée : [2, '8', 'Pique', 'Huit']
+02/17/2020 07:04:35 AM         ------------------------------------
+02/17/2020 07:04:35 AM         Suppression de la carte extraite du tableau de jeu : [2, '8', 'Pique', 'Huit'] a l index: 16
+02/17/2020 07:04:35 AM         ==> Contenu du jeu apres suppression: [[1, '7', 'Pique', 'Sept'], [2, '8', 'Pique', 'Huit'], [3, '9', 'Pique', 'Neuf'], [4, '10', 'Pique', 'Dix'], [5, '11', 'Pique', 'Valet'], [6, '12', 'Pique', 'Dame'], [8, '14', 'Pique', 'As'], [9, '7', 'Carreau', 'Sept'], [10, '8', 'Carreau', 'Carreau'], [12, '10', 'Carreau', 'Dix'], [13, '11', 'Carreau', 'Valet'], [19, '9', 'Coeur', 'Neuf'], [20, '10', 'Coeur', 'Dix'], [26, '8', 'Trefle', 'Huit'], [27, '9', 'Trefle', 'Neuf'], [29, '11', 'Trefle', 'Valet'], [31, '13', 'Trefle', 'Roi']]
+02/17/2020 07:04:35 AM         ____________________________________
+02/17/2020 07:04:35 AM         Index choisit : 12
+02/17/2020 07:04:35 AM         Ligne trouvée : [12, '10', 'Carreau', 'Dix']
+02/17/2020 07:04:35 AM         ------------------------------------
+02/17/2020 07:04:35 AM         Suppression de la carte extraite du tableau de jeu : [12, '10', 'Carreau', 'Dix'] a l index: 27
+02/17/2020 07:04:35 AM         /!\ G UNE ERREUR : [12, '10', 'Carreau', 'Dix'] a l index: 27
+02/17/2020 07:04:35 AM         Index choisit : 5
+02/17/2020 07:04:35 AM         Ligne trouvée : [5, '11', 'Pique', 'Valet']
+02/17/2020 07:04:35 AM         ------------------------------------
+02/17/2020 07:04:35 AM         Suppression de la carte extraite du tableau de jeu : [5, '11', 'Pique', 'Valet'] a l index: 20
+02/17/2020 07:04:35 AM         /!\ G UNE ERREUR : [5, '11', 'Pique', 'Valet'] a l index: 20
